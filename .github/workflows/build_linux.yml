@@ -11,7 +11,7 @@ jobs:
         working-directory: src
     strategy:
       matrix:
-        os: [ubuntu-latest]
+        os: [ubuntu-latest, ubuntu-24.04-arm]
         ocaml-compiler:
           - 4.14.0
     container:
