@@ -1,6 +1,6 @@
 {
   "name": "@greenfinity/ppx-spice",
-  "version": "0.2.4-alpha.1",
+  "version": "0.2.4-alpha.2",
   "description": "ReScript PPX which generate JSON (de)serializer",
   "license": "MIT",
   "author": "Greenlabs Dev <developer@greenlabs.co.kr>",
